@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "NN",
+      "NN"
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "taverns:netheritecoin",
+      "count": 1
+    }
+  }

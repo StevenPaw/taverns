@@ -1,0 +1,13 @@
+{
+    "item.taverns.goldcoin": "Golden Coin",
+    "item.taverns.halfgoldcoin": "Half Golden Coin",
+    "item.taverns.silvercoin": "Silver Coin",
+    "item.taverns.halfsilvercoin": "Half Silver Coin",
+    "item.taverns.coppercoin": "Copper Coin",
+    "item.taverns.halfcoppercoin": "Half Copper Coin",
+    "item.taverns.netheritecoin": "Netherite Coin",
+    "item.taverns.halfnetheritecoin": "Half Netherite Coin",
+    "item.taverns.mead": "Mead",
+    "item.taverns.silver_ingot": "Silver Ingot",
+    "itemGroup.taverns.taverns": "Taverns"
+}

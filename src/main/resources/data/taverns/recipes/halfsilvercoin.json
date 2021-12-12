@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "S",
+      "S"
+    ],
+    "key": {
+      "S": {
+        "item": "taverns:silver_ingot"
+      }
+    },
+    "result": {
+      "item": "taverns:halfsilvercoin",
+      "count": 1
+    }
+  }
