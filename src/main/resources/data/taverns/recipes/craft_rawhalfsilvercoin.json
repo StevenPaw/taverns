@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "GG",
-      "GG"
+      "S",
+      "S"
     ],
     "key": {
-      "G": {
-        "item": "minecraft:gold_ingot"
+      "S": {
+        "tag": "c:silver_ingots"
       }
     },
     "result": {
-      "item": "taverns:goldcoin",
+      "item": "taverns:rawhalfsilvercoin",
       "count": 1
     }
   }

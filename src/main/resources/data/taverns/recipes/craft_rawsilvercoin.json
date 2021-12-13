@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SS",
+      "SS"
+    ],
+    "key": {
+      "S": {
+        "tag": "c:silver_ingots"
+      }
+    },
+    "result": {
+      "item": "taverns:rawsilvercoin",
+      "count": 1
+    }
+  }

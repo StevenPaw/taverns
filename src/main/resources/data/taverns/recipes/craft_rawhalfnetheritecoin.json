@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "S",
-      "S"
+      "N",
+      "N"
     ],
     "key": {
-      "S": {
-        "item": "taverns:silver_ingot"
+      "N": {
+        "item": "minecraft:netherite_ingot"
       }
     },
     "result": {
-      "item": "taverns:halfsilvercoin",
+      "item": "taverns:rawhalfnetheritecoin",
       "count": 1
     }
   }

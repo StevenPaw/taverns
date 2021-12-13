@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "NN",
-      "NN"
+      "G",
+      "G"
     ],
     "key": {
-      "N": {
-        "item": "minecraft:netherite_ingot"
+      "G": {
+        "item": "minecraft:gold_ingot"
       }
     },
     "result": {
-      "item": "taverns:netheritecoin",
+      "item": "taverns:rawhalfgoldcoin",
       "count": 1
     }
   }

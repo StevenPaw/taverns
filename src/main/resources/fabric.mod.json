@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Taverns",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "This mod adds a few helpful items and blocks that you could use to build a tavern",
   "authors": [
     "Steven Paw"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/taverns/",
+    "sources": "https://github.com/StevenPaw/taverns"
   },
 
   "license": "CC0-1.0",

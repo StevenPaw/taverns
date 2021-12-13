@@ -7,7 +7,19 @@
     "item.taverns.halfcoppercoin": "Half Copper Coin",
     "item.taverns.netheritecoin": "Netherite Coin",
     "item.taverns.halfnetheritecoin": "Half Netherite Coin",
-    "item.taverns.mead": "Mead",
+
+    "item.taverns.rawgoldcoin": "Raw Golden Coin",
+    "item.taverns.rawhalfgoldcoin": "Raw Half Golden Coin",
+    "item.taverns.rawsilvercoin": "Raw Silver Coin",
+    "item.taverns.rawhalfsilvercoin": "Raw Half Silver Coin",
+    "item.taverns.rawcoppercoin": "Raw Copper Coin",
+    "item.taverns.rawhalfcoppercoin": "Raw Half Copper Coin",
+    "item.taverns.rawnetheritecoin": "Raw Netherite Coin",
+    "item.taverns.rawhalfnetheritecoin": "Raw Half Netherite Coin",
+
+    "item.taverns.drinkinghorn": "Drinking Horn",
     "item.taverns.silver_ingot": "Silver Ingot",
+    "item.taverns.raw_silver": "Raw Silver",
+    "block.taverns.silver_ore": "Silver Ore",
     "itemGroup.taverns.taverns": "Taverns"
 }
